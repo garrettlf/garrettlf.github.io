@@ -44,34 +44,30 @@ en: &DEFAULT_EN
     # left is the default
     #start_align: "left"
     events:
-      - title: "SFU"
-        year: "2018-2023"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-        image: assets/img/timeline/1.jpg
-        alt:
-      - title: "An Agency is Born"
-        year: "March 2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-        image: assets/img/timeline/2.jpg
-        alt:
-      - title: "Jekyll Theme is created"
-        year: "2019"
-        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
-        image: assets/img/timeline/3.jpg
-        alt: image alt text
-      - title: "Title"
-        year: "2009-2011"
-        desc: "Your description here, **Markdown** is fully supported."
-        image: assets/img/timeline/4.jpg
-        alt:
-        title: "Title"
-        year: "2009-2011"
-        desc: "Your description here, **Markdown** is fully supported."
-        image: assets/img/timeline/4.jpg
-        alt:
+    - title: "Simon Fraser University"
+      year: "2018–2023"
+      desc: "Graduated with a Bachelor of Science in Applied Mathematics. During this time, I also worked as Head Instructor at SFU Computer Camps from 2018 to 2019."
+      image: assets/img/timeline/1.jpg
+      alt: SFU campus
+      align: right
+    - title: "AI & Data Science Certification"
+      year: "2024"
+      desc: "Completed a comprehensive certification program covering Data Science, Machine Learning, and Artificial Intelligence."
+      image: assets/img/timeline/2.jpg
+      alt: Certificate
+    - title: "Top 0.01% in Kaggle Competition"
+      year: "2025"
+      desc: "Achieved a top 0.01% ranking in a global Kaggle science competition, showcasing strong skills in data analysis, modeling, and AI implementation."
+      image: assets/img/timeline/3.jpg
+      alt: Kaggle leaderboard
+    - title: "Surveyor – Substructure at Ledcor"
+      year: "2025 – Present"
+      desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur."
+      image: assets/img/timeline/4.jpg
+      alt: Ledcor surveying
         # you can enforce the alignment
-        align: right
-    end: "Be Part <br> of Our <br> Story!"
+      align: right
+    end: "<br>Now<br>!"
 
   about:
     title: "About Us"
