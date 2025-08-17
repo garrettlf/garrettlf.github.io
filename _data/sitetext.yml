@@ -23,7 +23,7 @@ en: &DEFAULT_EN
     section: team
     people:
       - name: "Garrett Fournier"
-        role: "Lead Marketer"
+        role: ""
         image: assets/img/team/2.jpg
         social:
           - url: https://github.com/garrettlf
