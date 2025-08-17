@@ -28,7 +28,7 @@ en: &DEFAULT_EN
         social:
           - url: https://github.com/garrettlf
             icon: fab fa-github
-          - url: https://linkedin.com
+          - url: https://www.linkedin.com/in/garrett-fournier/
             icon: fab fa-linkedin-in
 
   services:
@@ -126,7 +126,7 @@ en: &DEFAULT_EN
   footer:
     legal: "Privacy Policy"
     social:
-      - url: https://linkedin.com
+      - url: https://www.linkedin.com/in/garrett-fournier/
         icon: "fab fa-linkedin-in"
       - url: https://github.com/garrettlf
         icon: "fab fa-github"
