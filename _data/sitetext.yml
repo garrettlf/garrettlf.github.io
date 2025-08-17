@@ -47,7 +47,7 @@ en: &DEFAULT_EN
         icon: fab fa-markdown
       - title: "Python"
         desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
+        icon: assets/img/python.png
 
   portfolio:
     title: "PROJECTS"
