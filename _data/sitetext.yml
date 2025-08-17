@@ -11,8 +11,8 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Hi, I am Garrett!
-    text: Applied Mathematician with a diverse Data Analyst/Scientist skillset
+    title: pplied Mathematician with a diverse Data Analyst/Scientist skillset.
+    text: Hi, I am Garrett!
     button: Tell Me More
     buttonlink: "#services"
 
