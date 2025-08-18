@@ -1,18 +1,19 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
+title: "Deep Learning Dog Breed Identifier"
+subtitle: "Classifying 120 dog breeds using deep learning on 10,000+ images"
 image: assets/img/portfolio/05-full.jpg
 alt: 
 
 caption:
-  title: Southwest
-  subtitle: Website Design
+  title: "Deep Learning Dog Breed Identifier"
+  subtitle: "Classifying 120 dog breeds using deep learning on 10,000+ images"    
   thumbnail: assets/img/portfolio/05-thumbnail.jpg
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+[Check out this project on my GitHub](https://github.com/garrettlf/Deep-Learning-Dog-Breed-Identifier)
+
+Identifying dog breeds using deep learning on 10,000+ images from 120 potential breeds. Images were preprocessed and normalized to improve accuracy, and model performance was optimized using an early stopping callback function.
 
 {:.list-inline}
-- Date: October 2019
-- Client: Southwest
-- Category: Website Design
+- Date: June 2024
+- Category: Personal Project
 
