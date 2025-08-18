@@ -94,10 +94,12 @@ en: &DEFAULT_EN
         role: "garrettluisfournier@gmail.com"
         image: assets/img/team/2.jpg
         social:
-      - url: https://github.com/garrettlf
-        icon: fab fa-github
-      - url: https://www.linkedin.com/in/garrett-fournier/
-        icon: fab fa-linkedin-in
+          - url: https://github.com/garrettlf
+            icon: fab fa-github
+          - url: https://www.linkedin.com/in/garrett-fournier/
+            icon: fab fa-linkedin-in
+          - url: mailto:garrettluisfournier@gmail.com
+            icon: fas fa-envelope
   clients:
     section: clients
     max-height: 100px
@@ -115,6 +117,21 @@ en: &DEFAULT_EN
       - title: "Creative Market"
         url: https://github.com/raviriley/agency-jekyll-theme
         logo: assets/img/clients/creative-market.jpg
+
+  contact:
+    title: "Contact (Under Construction)"
+    text: "In the mean time, feel free to reach out to me via email at <a href='mailto:garrettluisfournier@gmail.com"
+    section: contact
+    name: "Name*"
+    name-validation: "Please enter your name."
+    email: "Email*"
+    email-validation: "Please enter your email address."
+    phone: "Phone Number"
+    phone-validation: "Please enter your phone number."
+    message: "Message*"
+    message-validation: "Please enter a message."
+    subject: "Contact Form Submission"
+    submit: "Send Message"
   footer:
     legal: "Privacy Policy"
     social:
@@ -122,6 +139,8 @@ en: &DEFAULT_EN
         icon: "fab fa-linkedin-in"
       - url: https://github.com/garrettlf
         icon: "fab fa-github"
+      - url: mailto:garrettluisfournier@gmail.com
+        icon: fas fa-envelope
 en-US:
   <<: *DEFAULT_EN
 en-CA:
