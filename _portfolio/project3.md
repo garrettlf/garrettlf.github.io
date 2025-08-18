@@ -12,7 +12,6 @@ caption:
 [Check out this project on my GitHub](https://github.com/garrettlf/end-to-end-heart-disease-classification)
 
 Predicting heart disease using machine learning using clinical data from the Cleveland dataset. After cleaning and analyzing the data, three models were compared using accuracy, precision, recall, and other metrics.
-{:.list-inline}
-- Date: January 2024
-- Category: Competition
+Date: January 2024
+Category: Competition
 

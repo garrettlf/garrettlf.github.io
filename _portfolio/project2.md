@@ -13,9 +13,8 @@ caption:
 [Check out this project on my GitHub](https://github.com/garrettlf/Housing-Prices-Regression-Model)
 
 Achieved Top 0.01% in a Kaggle competition by developing a regression model to predict housing prices. Work included feature engineering, variable transformation, missing data handling, and log transformation to suppress outliers.
-{:.list-inline}
-- Date: July 2025
-- Category: Competition
+Date: July 2025
+Category: Competition
 
 
 
