@@ -58,7 +58,7 @@ en: &DEFAULT_EN
 
   portfolio:
     title: "PROJECTS"
-    text: "Check out my latest work."
+    text: "Check out more projects on my <a href='https://github.com/garrettlf' target='_blank'>GitHub</a>!"
     section: portfolio
     closebutton: "Close Project"
 
