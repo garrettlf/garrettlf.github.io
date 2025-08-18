@@ -18,12 +18,12 @@ en: &DEFAULT_EN
 
   team:
     title: "ABOUT ME"
-    text: "garrettluisfournier@gmail.com"
+    text: ""
     subtext: Aspiring Data Analyst/Scientist with a Bachelor’s in Applied Mathematics from Simon Fraser University and a certificate in Data Science, AI, and Machine Learning. A quick learner with a proven ability to adapt and work effectively in collaborative environments or independently. Driven by a passion for utilizing technology and data analysis to optimize processes and achieve measurable outcomes to drive meaningful change in the world. Currently utilizing my skills set to aid in the construction structural support of the new Surrey to Langley SkyTrain system.
     section: team
     people:
       - name: "Garrett Fournier"
-        role: ""
+        role: "garrettluisfournier@gmail.com"
         image: assets/img/team/2.jpg
 
   services:
@@ -108,7 +108,7 @@ en: &DEFAULT_EN
         logo: assets/img/clients/creative-market.jpg
 
   contact:
-    title: "Contact Us"
+    title: "Contact"
     text: "Lorem ipsum or call 778-995-9654"
     section: contact
     social:
