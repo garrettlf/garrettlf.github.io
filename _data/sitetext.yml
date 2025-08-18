@@ -27,7 +27,7 @@ en: &DEFAULT_EN
         image: assets/img/team/2.jpg
 
   services:
-    title: "Technical Skills"
+    title: "TECHNICAL SKILLS"
     text: "Some of my Competencies"
     section: services
     list:
@@ -58,7 +58,7 @@ en: &DEFAULT_EN
     closebutton: "Close Project"
 
   timeline:
-    title: "My Journey"
+    title: "MY JOURNEY"
     text: ""
     section: timeline
     # left is the default
@@ -108,7 +108,7 @@ en: &DEFAULT_EN
         logo: assets/img/clients/creative-market.jpg
 
   contact:
-    title: "Contact"
+    title: "CONTACT"
     text: "Lorem ipsum or call 778-995-9654"
     section: contact
     social:
