@@ -92,7 +92,7 @@ en: &DEFAULT_EN
       alt: Ledcor surveying
         # you can enforce the alignment
       align: right
-    end: "<br>Now<br>!"
+    end: "<br>Today<br>"
 
   about:
     title: ""
