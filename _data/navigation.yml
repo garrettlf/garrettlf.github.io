@@ -11,7 +11,7 @@
 # -----------------
 en: &DEFAULT_EN
   nav:
-    - title: "Technical Skills"
+    - title: "Technical Skillls"
       section: services
     - title: "Projects"
       section: portfolio
