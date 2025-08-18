@@ -16,7 +16,7 @@ Achieved Top 0.01% in a Kaggle competition by developing a regression model to p
 - Date: July 2025
 - Category: Competition
 
-[Check out this project on my GitHub](https://github.com/garrettlf)
+[Check out this project on my GitHub](https://github.com/garrettlf/Housing-Prices-Regression-Model)
 
 
 
