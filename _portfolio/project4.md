@@ -1,18 +1,17 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
+title: Beverage Sales Dashboard
+subtitle: Data Exploratory Analysis
 image: assets/img/portfolio/04-full.jpg
-alt: 
+alt: Beverage Sales Dashboard
 
 caption:
-  title: Lines
-  subtitle: Branding
+  title: Beverage Sales Dashboard
+  subtitle: Data Exploratory Analysis
   thumbnail: assets/img/portfolio/04-thumbnail.jpg
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
 
+The Beverage Sales Dashboard provides an insightful data visualization solution using Power BI. The project focuses on analyzing beverage sales performance, including trends in revenue, price-per-unit optimization, and regional sales patterns for Coca-Cola products such as Sprite, Fanta, and more. The dashboard enables decision-makers to make informed choices based on real-time data.
 {:.list-inline}
-- Date: October 2019
-- Client: Lines
-- Category: Branding
+- Date: September 2024
+- Category: Personal Project
 
