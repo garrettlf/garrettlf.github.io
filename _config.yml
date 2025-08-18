@@ -18,8 +18,8 @@ url    : "garrettlf.github.io" # the base hostname & protocol for your site, e.g
 baseurl: "/agency-jekyll-theme-starter" # the subpath of your site, e.g. /blog
 
 title      : Garrett Fournier
-email      : garrettluisfournier@gmIL.com #this is also the email contact forms will go to
-description: "My portfolio"
+email      : garrettluisfournier@gmail.com #this is also the email contact forms will go to
+description: "My Portfolio"
 author     : Garrett Fournier
 # logo:     #optional, defaults to site title
   # path: assets\img\clients\creative-market.jpg
