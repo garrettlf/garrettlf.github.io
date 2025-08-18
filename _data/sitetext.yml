@@ -37,7 +37,7 @@ en: &DEFAULT_EN
     section: services
     list:
     - title: "Python"
-      desc: "Pandas, NumPy, Matplotlib, Sci-Kit Learn, XGBoost, CatBoost"
+      desc: "Pandas, NumPy, Sci-Kit Learn, XGBoost, CatBoost"
       icon: fab fa-python
     - title: "SQL"
       desc: "Merge, Join, Group By, Aggregate Functions"
@@ -48,7 +48,9 @@ en: &DEFAULT_EN
     - title: "Data Visualization"
       desc: "Power BI, Tableau, Matplotlib"
       icon: fas fa-chart-line
-
+    - title: "GitHub"
+      desc: "Version Control, Collaboration"
+      icon: "fab fa-github"
     
 
   portfolio:
