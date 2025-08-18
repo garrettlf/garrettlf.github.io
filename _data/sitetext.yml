@@ -25,11 +25,6 @@ en: &DEFAULT_EN
       - name: "Garrett Fournier"
         role: ""
         image: assets/img/team/2.jpg
-        social:
-          - url: https://github.com/garrettlf
-            icon: fab fa-github
-          - url: https://www.linkedin.com/in/garrett-fournier/
-            icon: fab fa-linkedin-in
 
   services:
     title: "Technical Skills"
@@ -116,16 +111,11 @@ en: &DEFAULT_EN
     title: "Contact Us"
     text: "Lorem ipsum or call 778-995-9654"
     section: contact
-    name: "Name*"
-    name-validation: "Please enter your name."
-    email: "Email*"
-    email-validation: "Please enter your email address."
-    phone: "Phone Number"
-    phone-validation: "Please enter your phone number."
-    message: "Message*"
-    message-validation: "Please enter a message."
-    subject: "Contact Form Submission"
-    submit: "Send Message"
+    social:
+    - url: https://github.com/garrettlf
+      icon: fab fa-github
+    - url: https://www.linkedin.com/in/garrett-fournier/
+      icon: fab fa-linkedin-in
 
   footer:
     legal: "Privacy Policy"
