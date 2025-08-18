@@ -40,11 +40,14 @@ en: &DEFAULT_EN
       desc: "Pandas, NumPy, Matplotlib, Sci-Kit Learn, XGBoost, CatBoost"
       icon: fab fa-python
     - title: "SQL"
-      desc: "Merge, Join, Group By, Aggregate Functions, Window Functions"
+      desc: "Merge, Join, Group By, Aggregate Functions"
       icon: fas fa-database
     - title: "Excel"
       desc: "Conditional Formatting, Pivot Tables, VLOOKUP"
       icon: fas fa-laptop
+    - title: "Data Visualization"
+      desc: "Power BI, Tableau, Matplotlib"
+      icon: fas fa-chart-line
 
     
 
