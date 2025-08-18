@@ -1,18 +1,17 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
+title: "American University Degree Performance Dashboard"
+subtitle: "Data Visualization Project"
 image: assets/img/portfolio/06-full.jpg
-alt: 
+alt: "Degree Performance Dashboard Project Screenshot"
 
 caption:
-  title: Window
-  subtitle: Photography
+  title: "Degree Performance Dashboard"
+  subtitle: "Data Visualization Project"
   thumbnail: assets/img/portfolio/06-thumbnail.jpg
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+[Check out this project on my GitHub](https://github.com/garrettlf/American-University-Degree-Performance-Dashboard)
 
+This dashboard provides an in-depth analysis of undergraduate degree outcomes across 320 American schools analyzing 50 majors. Leveraging Power BI, it visualizes insights on regional school distribution, salary percentiles, average salary by school type, and median earnings.
 {:.list-inline}
-- Date: October 2019
-- Client: Window
-- Category: Photography
-
+- Date: May 2025
+- Category: Personal Project
