@@ -90,7 +90,7 @@ en: &DEFAULT_EN
     section: team
     people:
       - name: "Garrett Fournier"
-        role: "garrettluisfournier@gmail.com"
+        role: "garrettluisfournier@gmail.com<br>778-995-9654"
         image: assets/img/team/2.jpg
         social:
           - url: https://github.com/garrettlf
