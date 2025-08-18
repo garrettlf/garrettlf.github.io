@@ -13,13 +13,13 @@ en: &DEFAULT_EN
   nav:
     - title: "Team"
       section: team
-    - title: "Services"
+    - title: "Competencies"
       section: services
     - title: "Portfolio"
       section: portfolio
     - title: "About"
       section: about
-    - title: "Timeline"
+    - title: "My Journey"
       section: timeline
     - title: "Contact"
       section: contact
