@@ -8,10 +8,19 @@ caption:
   title: Predicting House Prices
   subtitle: Advanced Regression
   thumbnail: assets/img/portfolio/02-thumbnail.jpg
+
+social:
+ - url: https://github.com/garrettlf
+   icon: fab fa-github
 ---
 Achieved Top 0.01% in a Kaggle competition by developing a regression model to predict housing prices. Work included feature engineering, variable transformation, missing data handling, and log transformation to suppress outliers.
 
 {:.list-inline}
 - Date: July 2025
 - Category: Competition
+
+social:
+ - url: https://github.com/garrettlf
+   icon: fab fa-github
+
 
