@@ -18,7 +18,10 @@ en: &DEFAULT_EN
     - title: "My Journey"
       section: timeline
     - title: "About Me"
+      section: about
+    - title: "Contact"
       section: team
+
 en-US:
   <<: *DEFAULT_EN
 en-CA:
