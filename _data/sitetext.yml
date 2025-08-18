@@ -66,12 +66,12 @@ en: &DEFAULT_EN
       alt: Certificate
     - title: "Top 0.01% in Kaggle Competition"
       year: "2025"
-      desc: "Achieved a top 0.01% ranking in a global Kaggle science competition, showcasing strong skills in data analysis and modeling."
+      desc: "Placed 251 out of 896,000 in a global Kaggle science competition, showcasing strong skills in data analysis and modeling."
       image: assets/img/timeline/3.jpg
       alt: Kaggle leaderboard
     - title: "Ledcor - Surveyor, Substructure"
       year: "2025 – Present"
-      desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur."
+      desc: "Worked on measuring and laying out of the substructral support of the SkyTrain system. Ensured data accuracy by performing error analysis within strict project tolerances."
       image: assets/img/timeline/4.jpg
       alt: Ledcor surveying
       align: right
