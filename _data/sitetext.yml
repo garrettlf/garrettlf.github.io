@@ -37,7 +37,7 @@ en: &DEFAULT_EN
     section: services
     list:
     - title: "Python"
-      desc: "Pandas, NumPy, Matplotlib, Sci-Kit Learn, XGBoost, CatBoost
+      desc: "Pandas, NumPy, Matplotlib, Sci-Kit Learn, XGBoost, CatBoost"
       icon: fab fa-python
     - title: "SQL"
       desc: "Merge, Join, Group By, Aggregate Functions, Window Functions"
@@ -45,12 +45,6 @@ en: &DEFAULT_EN
     - title: "Excel"
       desc: "Conditional Formatting, Pivot Tables, VLOOKUP"
       icon: fas fa-laptop
-    - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-      desc: "Your description here, full **Markdown** support"
-      icon: fab fa-markdown
-    - title: "Python"
-      desc: "Your description here, full **Markdown** support"
-      icon: fab fa-python
 
     
 
