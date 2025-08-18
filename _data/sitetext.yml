@@ -32,8 +32,8 @@ en: &DEFAULT_EN
             icon: fab fa-linkedin-in
 
   services:
-    title: "Competencies"
-    text: "Lorem ipsum"
+    title: "Technical Skills"
+    text: "Some of my Competencies"
     section: services
     list:
     - title: "Python"
