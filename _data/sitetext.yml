@@ -64,9 +64,9 @@ en: &DEFAULT_EN
       desc: "Completed a comprehensive certification program covering Data Science, Machine Learning, and AI."
       image: assets/img/timeline/2.jpg
       alt: Certificate
-    - title: "Top 0.01% in Kaggle Competition"
+    - title: "Top 0.017% in Kaggle Competition"
       year: "2025"
-      desc: "Placed 251 out of 896,000 in a global Kaggle science competition, showcasing strong skills in data analysis and modeling."
+      desc: "Placed 151 out of 887,250 in a global Kaggle science competition, showcasing strong skills in data analysis and modeling."
       image: assets/img/timeline/3.jpg
       alt: Kaggle leaderboard
     - title: "Ledcor - Surveyor, Substructure"
