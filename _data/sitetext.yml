@@ -75,6 +75,12 @@ en: &DEFAULT_EN
       image: assets/img/timeline/4.jpg
       alt: Ledcor surveying
       align: right
+      - title: "Ledcor - Surveyor, Substructure"
+      year: "2025 – Present"
+      desc: "Worked on measuring and laying out of the substructral support of the SkyTrain system. Ensured data accuracy by performing error analysis within strict project tolerances."
+      image: assets/img/timeline/4.jpg
+      alt: Ledcor surveying
+      align: right
     end: "<br>Today<br>"
   
   about:
