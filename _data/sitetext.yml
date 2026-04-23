@@ -69,12 +69,18 @@ en: &DEFAULT_EN
       desc: "Placed 151 out of 887,250 in a global Kaggle science competition, showcasing strong skills in data analysis and modeling."
       image: assets/img/timeline/3.jpg
       alt: Kaggle leaderboard
+      align: right
     - title: "Ledcor - Surveyor, Substructure"
-      year: "2025 – Present"
+      year: "2025"
       desc: "Worked on measuring and laying out of the substructral support of the SkyTrain system. Ensured data accuracy by performing error analysis within strict project tolerances."
       image: assets/img/timeline/4.jpg
       alt: Ledcor surveying
-      align: right
+    - title: "test"
+      year: "test"
+      desc: "tes."
+      image: assets/img/timeline/3.jpg
+      alt: test
+      align: right  
     end: "<br>Today<br>"
   
   about:
